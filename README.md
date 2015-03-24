@@ -16,7 +16,7 @@ This repository contains a curated collection of domain models for [Origins](htt
 
 Facts about the domain itself can be asserted providing a way to specify metadata about the domain. This can be done by using the `@domain` macro in the `entity` column.
 
-entity_domain|domain|attribute_domain|attribute|value_domain|value
+entity_domain|entity|attribute_domain|attribute|value_domain|value
 ----|----|----|----|----|----|----|----
 mydomain|@domain||author||John Doe
 mydomain|@domain||description||This domain represents...
